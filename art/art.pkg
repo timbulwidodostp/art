@@ -1,0 +1,4 @@
+D 'art': Implement approximate randomization tests for inference with a small number of clusters Use art With STATA 19
+D
+F art.ado
+F art.hlp

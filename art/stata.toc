@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p art Implement approximate randomization tests for inference with a small number of clusters Use art With STATA 19
