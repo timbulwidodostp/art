@@ -3,6 +3,8 @@ Implement approximate randomization tests for inference with a small number of c
 
 Canay, Romano, and Shaikh (2017) procedure Use art With STATA 19
 
+https://www.youtube.com/watch?v=byavUFL8usM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
